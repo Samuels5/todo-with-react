@@ -1,0 +1,26 @@
+
+  .App {
+    background-color: #fefefe;
+    width: 60%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 20%;
+    height: 500px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+    border-radius: 7px;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+  }
+  .yellow{
+    background-color:yellow;
+  }
