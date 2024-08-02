@@ -5,6 +5,8 @@ let count = 0
 function App() {
   const [mylist, setmylist] = useState<Type[] | []>([])
   const [value, setvalue] = useState<string>('')
+  const [enter, setenter] = useState<string>('')
+  const [b, setb] = useState<boolean>(false)
 
   const handledelete =(deletItemId: number) =>{
     setmylist(mylist.filter((item)=>item.id !==deletItemId));
@@ -27,16 +29,21 @@ function App() {
       <br/>
     </div>
   ))
+  if (b){
+    setb(false);
+    setenter("")
+
+  }
   
   return (
     <div className="App">
       <h1 style={{textAlign:'center'}}> Todo List</h1>
       <div className='p'>
-        <input className='input'style = {{alignItems:'center'}} onChange={(par) =>{setvalue(par.target.value)}}/>
+        <input className='input'style = {{alignItems:'center'}} value = {enter} onChange={(par) =>{setvalue(par.target.value); setenter(par.target.value)}}/>
         <button className='green' onClick={() => {setmylist((pre) => [...pre, 
           {id:count,
           text:value,
-          done:false}]); count = count + 1}}>Add</button>
+          done:false}]); count = count + 1; setb(true)}}>Add</button>
           {rend}
         </div>
       </div>
