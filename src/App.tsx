@@ -1,10 +1,6 @@
 import React, { useState } from 'react';
 import './components/style.css'
-interface Type {
-  id: number,
-  text: string,
-  done: boolean
-}
+import Type from './components/Type';
 let count = 0
 function App() {
   const [mylist, setmylist] = useState<Type[] | []>([])
