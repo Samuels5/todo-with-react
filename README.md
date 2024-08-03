@@ -10,11 +10,14 @@ the open the link http://localhost:3000/
 
 you can use fanctionalies like add, edit and delete
 
-<img width="951" alt="Screenshot_20240802_032744" src="https://github.com/user-attachments/assets/47a9bebe-6853-41a9-8659-bb49758f5785">
-<img width="950" alt="Screenshot_20240802_032758" src="https://github.com/user-attachments/assets/7f937ff4-751f-407c-9d3f-03d218f5f3af">
-<img width="947" alt="Screenshot_20240802_032828" src="https://github.com/user-attachments/assets/3bf85066-b7b1-41ac-9fb1-494fad727d7a">
-<img width="948" alt="Screenshot_20240802_032859" src="https://github.com/user-attachments/assets/00fd94f0-a7de-4f56-b09c-e9e7ffd148e9">
-<img width="946" alt="Screenshot_20240802_032916" src="https://github.com/user-attachments/assets/f9854d98-8c02-48b4-845b-54017b72f2ea">
-<img width="947" alt="Screenshot_20240802_032927" src="https://github.com/user-attachments/assets/ab91f0e3-5352-4dda-84fe-247028ca676b">
-<img width="948" alt="Screenshot_20240802_032940" src="https://github.com/user-attachments/assets/2a63b516-e9cc-46e1-81ff-2907b9346ecc">
-<img width="951" alt="Screenshot_20240802_032950" src="https://github.com/user-attachments/assets/caf78bac-0e71-4db1-8cf0-687631f4adf5">
+
+<img width="945" alt="Screenshot_20240803_105536" src="https://github.com/user-attachments/assets/49569a36-2115-4b31-868b-f3ad2f5dd86b">
+<img width="947" alt="Screenshot_20240803_105546" src="https://github.com/user-attachments/assets/f08a4e9d-bb7c-4750-91e5-807522992b3f">
+<img width="946" alt="Screenshot_20240803_105613" src="https://github.com/user-attachments/assets/ab52c52f-23eb-4d92-9bd9-3eeb5882fc69">
+<img width="941" alt="Screenshot_20240803_105623" src="https://github.com/user-attachments/assets/46d69572-919f-4e6c-8e57-5c0339b9ae82">
+<img width="958" alt="Screenshot_20240803_105701" src="https://github.com/user-attachments/assets/46c70699-c34d-4b5d-8456-42b15cedf0d0">
+<img width="955" alt="Screenshot_20240803_105717" src="https://github.com/user-attachments/assets/59d1f467-d683-4bed-9f7d-11deb2066212">
+<img width="953" alt="Screenshot_20240803_105728" src="https://github.com/user-attachments/assets/d0801c64-ec6e-413d-850f-100c8e4d09d9">
+<img width="949" alt="Screenshot_20240803_105739" src="https://github.com/user-attachments/assets/32bacdd2-1388-4ce4-a1b2-f79956349469">
+<img width="950" alt="Screenshot_20240803_105749" src="https://github.com/user-attachments/assets/5fefe634-22b2-490e-8d28-7c1c84521aef">
+
