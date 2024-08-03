@@ -23,7 +23,7 @@ function App() {
   
   const rend = mylist.map((item) => (
     <div style={{display:'flex' }}>
-      <h3>{item.text}</h3>
+      <h3 className='text'>{item.text}</h3>
       <button className = 'red'style={{height:'30px', marginTop:'15px'}} onClick={() => handledelete(item.id)}>Delete</button>
       <button className='yellow'  style={{height:'30px', marginTop:'15px' }} onClick={()=>handleedit(item.id,item.text)}>edit</button>
       <br/>
@@ -37,7 +37,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1 style={{textAlign:'center'}}> Todo List</h1>
+      <h1 className='todo'style={{textAlign:'center'}}> Todo List</h1>
       <div className='p'>
         <input className='input'style = {{alignItems:'center'}} value = {enter} onChange={(par) =>{setvalue(par.target.value); setenter(par.target.value)}}/>
         <button className='green' onClick={() => {setmylist((pre) => [...pre, 
